@@ -1,0 +1,9 @@
+name: Feature Request
+description: Propose a new feature
+body:
+  - type: textarea
+    id: feat
+    attributes:
+      label: Proposal
+    validations:
+      required: true
